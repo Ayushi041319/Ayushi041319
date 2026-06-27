@@ -12,7 +12,7 @@
 - 🤝 I thrive in **Agile/Scrum** teams and love clean, maintainable code
 - 📍 Based in **Mumbai, India**
 - 📫 Reach me at **Vishwakarmaayushi504@gmail.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/) | [Portfolio](https://yourportfolio.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-vishwakarma-2a7274246)
 
 ---
 
